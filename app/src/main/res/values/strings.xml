@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TDEE Calc</string>
+    <string-array name="activity_levels">
+        <item>Sedentary (little or no exercise)</item>
+        <item>Lightly active (light exercise/sports 1-3 days/week)</item>
+        <item>Moderately active (moderate exercise/sports 3-5 days/week)</item>
+        <item>Very active (hard exercise/sports 6-7 days/week)</item>
+        <item>Extra active (very hard exercise/sports and physical job)</item>
+    </string-array>
+</resources>

@@ -30,7 +30,7 @@ Results Screen: Displays the calculated BMR, BMI, and TDEE based on the user's i
 
 <img src ="https://github.com/user-attachments/assets/8ffa2a5e-d20d-4a34-946e-19afa6b70db7" width="200" height="400" />
 
-<img src ="https://github.com/user-attachments/assets/f58d61cd-f088-4eba-8e22-6760c4594c74" width="200" height="400" />
+<img src ="https://github.com/user-attachments/assets/4bb0fda3-5dab-4e7e-89c7-0f7eb9ca5c7d" width="200" height="400" />
 
 <img src ="https://github.com/user-attachments/assets/260824d5-6ceb-419c-b55b-d702f760be43" width="200" height="400" />
 
